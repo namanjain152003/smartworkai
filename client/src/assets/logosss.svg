@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420" height="84" viewBox="0 0 420 84" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SmartWorkAI logo">
+  <title>SmartWorkAI</title>
+  <defs>
+    <style type="text/css"><![CDATA[
+      .sw-fill { fill: #2F5BFF; }
+      .sw-text { font-family: "Poppins", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-weight: 700; font-size: 36px; fill: #2F5BFF; }
+    ]]></style>
+  </defs>
+
+  <!-- Icon: 8 petal star-like mark -->
+  <g transform="translate(12,12)">
+    <g class="sw-fill" transform="translate(0,6)">
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(0 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(45 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(90 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(135 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(180 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(225 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(270 24 6)"/>
+      <ellipse cx="24" cy="6" rx="6" ry="18" transform="rotate(315 24 6)"/>
+      <!-- center small diamond to match the reference -->
+      <path d="M24 12 L26.5 9 L24 6 L21.5 9 Z" fill="#ffffff" opacity="0.08"/>
+    </g>
+  </g>
+
+  <!-- Wordmark text -->
+  <g transform="translate(84,52)">
+    <text class="sw-text">SmartWorkAI</text>
+  </g>
+</svg>
